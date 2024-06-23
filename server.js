@@ -27,4 +27,3 @@ app.post('/usuarios', async (req, res) => {
 
 app.listen(3000, () => console.log('Server running on port 3000'))
 
-// n2a21yk6hW1qOABH  giselle
